@@ -94,7 +94,7 @@ I'm focusing on **practical learning** by building small projects and watching s
 - 🐛 Opened and resolved issues to improve software quality  
 - ✅ Submitted and merged pull requests  
 - 📚 Continued learning and applying new tools and technologies  
-- 🌐 Working on web applications using **React**, **Node.js**, and **Python**  
+- 🌐 Working on web applications using **Python**  
 - 🚀 Exploring **AWS services** and **cloud automation**  
 - 🛠️ Building **ETL pipelines** and automating **data workflows**  
 - ✍️ Writing clean, maintainable, and well-documented code   <!--END_SECTION:activity-->
