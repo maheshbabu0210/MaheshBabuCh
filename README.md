@@ -22,9 +22,9 @@
 ## 👨‍💼 About Me
 
 🎓 I'm **Mahesh Babu**, a dedicated **Data Engineer** based in 🏙️ **Dallas, Texas**, currently working at a leading **E-commerce company**.
-
+                                                                  <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 💼 Domain Experience:
-- 🧾 Assessment
+- 🧾 Assessment                                                    
 - 💰 Banking & Finance
 - 🏥 Healthcare Claims
 - 🛒 E-commerce
@@ -123,6 +123,7 @@
 - 🟠 **Longest Streak**: Jun 27 – Jul 2, 2017 (6 days)  
 - 🔴 **Last active**: June 2, 2025
 
+
 ---
 
 ### 📈 GitHub Readme Stats (Auto-updated)
@@ -130,6 +131,8 @@
 ![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshbabuch&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshbabuch&layout=compact&theme=radical)
+
+![GitHub Metrics](https://raw.githubusercontent.com/maheshbabuch/maheshbabuch/main/github-metrics.svg)
 
 ---
 
@@ -153,7 +156,7 @@
 
 ## 🔗 Let’s Connect
 
-📫 **Email**: `maheshbabu.dev@gmail.com`  
+📫 **Email**: `maheshbabusql@gmail.com`  
 💼 **LinkedIn**: [Mahesh Babu](https://www.linkedin.com/in/mahesh-babu-b499b5187/)
 
 <p align="center">
