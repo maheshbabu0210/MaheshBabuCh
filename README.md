@@ -156,8 +156,10 @@ Focused on expanding my skillset in:
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshbabuch&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshbabu&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="MaheshBabu Contribution Graph" />
 </p>
+
+
 
 
 ---
