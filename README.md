@@ -6,28 +6,38 @@
 
 ---
 
-I’m a **Data Engineer** based in **Dallas, Texas**, currently working in an **E-commerce-based company**.
+### 👋 Hi there, I'm Mahesh Babu — a **Data Engineer** based in **Dallas, Texas**, currently working at an **E-commerce company**.
 
-I have experience working across multiple sectors:
+---
+
+### 👨‍💼 **Professional Experience**
+I bring hands-on experience across a range of domains:
 - ✅ Assessment
 - ✅ Banking & Financial Services
 - ✅ Healthcare Claims
 - ✅ E-commerce
 
-💻 Currently working with:
-- Informatica IICS (CDI, CAI)
-- Oracle
-- Microsoft T-SQL
-- PowerCenter
-- SSIS
+---
+
+### 💻 **Tech Stack & Tools**
+Currently working with:
+- Informatica IICS (CDI & CAI)
+- Oracle & Microsoft SQL Server (T-SQL)
+- PowerCenter & SSIS
 - UNIX Shell Scripting
 
-📚 Currently learning:
-- **Python**
-- **AWS Serverless ETL (Glue, Lambda, Boto3)**
+---
 
-🎯 Career Goals:
-- To grow into a Cloud-native Data Engineer & AWS Developer
+### 📚 **Learning & Development**
+Focused on expanding my skillset in:
+- 🐍 **Python Programming**
+- ☁️ **AWS Serverless ETL** (Glue, Lambda, Boto3)
+
+---
+
+### 🎯 **Career Goals**
+- Evolving into a **Cloud-native Data Engineer** & **AWS Developer**
+
 
 ---
 
