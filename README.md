@@ -21,9 +21,11 @@
 
 ## 👨‍💼 About Me
 
-🎓 I'm **Mahesh Babu**, a dedicated **Data Engineer** based in 🏙️ **Dallas, Texas**, currently working at a leading **E-commerce company**.
+🎓 I'm Mahesh Babu — a **Data Engineer** based in **Dallas, Texas**, Currently working at an **E-commerce company**.
                                                                   <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-💼 Domain Experience:
+---                                                                  
+💼 **Professional Experience**
+I bring hands-on experience across a range of domains:
 - 🧾 Assessment                                                    
 - 💰 Banking & Finance
 - 🏥 Healthcare Claims
@@ -39,16 +41,31 @@
   <img src="https://skillicons.dev/icons?i=aws,python,bash,oracle,mysql,sqlserver,vscode,git,github" />
 </div>
 
-🛠️ Tools I'm confident with:
-- **Informatica IICS** (CDI & CAI)
-- **PowerCenter**, **SSIS**
-- **SQL**: Oracle, SQL Server
-- **Scripting**: UNIX Shell, Python
+### 💻🛠️ **Tech Stack & Tools**
+ETL & Data Integration
 
-🌱 Currently exploring:
-- Python for Data Engineering
-- AWS Glue, Lambda, Boto3
+Informatica IICS (Cloud Data Integration, Application Integration)
 
+PowerCenter
+
+SSIS (SQL Server Integration Services)
+
+💃 Databases & Query Languages
+
+Oracle SQL
+
+Microsoft SQL Server
+
+💻 Scripting & Automation
+
+UNIX Shell Scripting
+
+Python
+
+### 📚 **Learning & Development**
+Focused on expanding my skillset in:
+- 🐍 **Python Programming**
+- ☁️ **AWS Serverless ETL** (Glue, Lambda, Boto3)
 ---
 
 ## 🥇 Certifications
@@ -136,11 +153,12 @@
 
 ---
 
-## 🔥 Contribution Graph
+## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=maheshbabuch&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshbabuch&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
 </p>
+
 
 ---
 
