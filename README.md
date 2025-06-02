@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/your-github-username/your-github-username/blob/main/banner.png" alt="Maheshbabu Banner" style="width:100%; border-radius: 10px;">
 </p>
