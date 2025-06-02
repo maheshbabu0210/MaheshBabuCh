@@ -8,8 +8,6 @@ I have hands-on experience across various industry domains:
 - 🏥 **Healthcare (Claims & Data)**
 - 🛒 **E-commerce**
 
----
-
 ### 🛠️ Tech Stack & Tools
 - **ETL & Data Integration**:  
   ![Informatica IICS](https://img.shields.io/badge/Informatica-IICS-orange)  
@@ -24,8 +22,6 @@ I have hands-on experience across various industry domains:
 - **Testing**:  
   End-to-End Testing, UAT Testing
 
----
-
 ### 🚀 Currently Learning
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)  
@@ -34,12 +30,8 @@ I have hands-on experience across various industry domains:
   - AWS Lambda
   - Boto3 SDK
 
----
-
 ### 🎯 Career Goal
 To grow into a **Cloud-Savvy Data Engineer**, building **scalable serverless data pipelines** as an **AWS Developer**.
-
----
 
 ### 📜 Certifications
 - ✅ **AWS Certified Cloud Practitioner**
