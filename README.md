@@ -1,67 +1,90 @@
-<h1 align="center">Hi 👋, I'm Maheshbabu</h1>
-<p align="center">
-  A passionate <strong>Data Engineer</strong> based in <strong>Dallas, Texas</strong><br>
-  Aspiring <strong>AWS Cloud Developer</strong> | Building Serverless Data Pipelines
-</p>
+### Hi there I am [Maheshbabu](https://github.com/maheshbabu) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
+<br/>
+
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=maheshbabu&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/maheshbabu)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-babu-b499b5187/)
 
 ---
 
-### 🌟 About Me
+I’m a **Data Engineer** based in **Dallas, Texas**, currently working in an **E-commerce-based company**.
 
-- 💼 Currently working as a **Data Engineer** in an e-commerce company  
-- 🌐 Experience across multiple domains:  
-  - **Assessment**  
-  - **Banking & Financial Services**  
-  - **Healthcare (Claims & Data)**  
-  - **E-commerce**
+I have experience working across multiple sectors:
+- ✅ Assessment
+- ✅ Banking & Financial Services
+- ✅ Healthcare Claims
+- ✅ E-commerce
 
-- 🔧 Working with:
-  - **ETL Tools**: Informatica IICS (CDI & CAI), PowerCenter, SSIS  
-  - **Databases**: Oracle, Microsoft T-SQL  
-  - **Scripting**: Unix Commands, Shell Scripting (basic)  
-  - **Testing**: End-to-End Testing, UAT Testing  
+💻 Currently working with:
+- Informatica IICS (CDI, CAI)
+- Oracle
+- Microsoft T-SQL
+- PowerCenter
+- SSIS
+- UNIX Shell Scripting
 
-- 👨‍💻 Currently Learning:
-  - **Python**
-  - **AWS Serverless ETL Pipelines** using:
-    - AWS Glue
-    - AWS Lambda
-    - Python **Boto3**
+📚 Currently learning:
+- **Python**
+- **AWS Serverless ETL (Glue, Lambda, Boto3)**
 
-- 🎯 **Goal**: To become a **Cloud-Savvy Data Engineer** and certified **AWS Developer**
-
----
-
-### 📜 Certifications
-
-- ✅ **AWS Certified Cloud Practitioner**  
-- 🔄 Preparing for: **AWS Certified Developer – Associate**
+🎯 Career Goals:
+- To grow into a Cloud-native Data Engineer & AWS Developer
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🎓 Certifications
 
+- [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-yellow?logo=amazon-aws)](https://aws.amazon.com/verification)  
+  - **Issued To**: MaheshBabu Chellu  
+  - **Issued On**: March 28, 2025  
+  - **Expires On**: March 28, 2028  
+  - **Credential ID**: `b413bc5d11cb4cb4b1cdc2d8420aca22`  
+  - **Verify Here**: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
+
+- 🧠 Preparing for AWS Certified Developer – Associate
+
+---
+
+### 🛠️ Languages and Tools
 <p>
-  <img src="https://img.shields.io/badge/Informatica-IICS-orange" />
-  <img src="https://img.shields.io/badge/SQL-Oracle-blue" />
-  <img src="https://img.shields.io/badge/Microsoft-SQL%20Server-lightgrey?logo=microsoftsqlserver" />
-  <img src="https://img.shields.io/badge/Shell-Scripting-green" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" />
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📘 Recent Learning Activity
 
-- [LinkedIn](https://www.linkedin.com/in/mahesh-babu-b499b5187/) 
-- 📧 Email: (maheshbabusql@gmail.com)
+I have recently started learning **Cloud** and **AWS pipelines**.  
+I'm following **YouTube tutorials** and doing **hands-on projects** to improve my skills.
+
+**Learning Resources I’m using:**
+- **Python Programming**: Mosh Hamedani, Corey Schafer  
+- **AWS & Cloud**: A Monk in Cloud, Learn by Doing IT, Cloud for Free, NeuralNine
+
+I'm focusing on **practical learning** by building small projects and watching step-by-step guides.
 
 ---
 
-### 🧠 Fun Fact
+### 📊 GitHub Stats Summary
 
-> I love transforming raw data into meaningful insights and automating workflows using cloud-native tools ☁️🧩
+- 👤 **Joined GitHub:** April 2025 29, 2025
+- 👀 **Profile Views:**  
+  ![](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
+
+
 
 ---
 
+### ✨ My Recent Activity
+<!--START_SECTION:activity-->Here’s what I’ve been up to recently:
+- 💻 Pushed code and improvements to personal and collaborative projects  
+- 🔍 Reviewed and contributed to open-source repositories  
+- 🐛 Opened and resolved issues to improve software quality  
+- ✅ Submitted and merged pull requests  
+- 📚 Continued learning and applying new tools and technologies  
+- 🌐 Working on web applications using **React**, **Node.js**, and **Python**  
+- 🚀 Exploring **AWS services** and **cloud automation**  
+- 🛠️ Building **ETL pipelines** and automating **data workflows**  
+- ✍️ Writing clean, maintainable, and well-documented code   <!--END_SECTION:activity-->
