@@ -66,7 +66,7 @@ Focused on expanding my skillset in:
 
 ### 📘 Recent Learning Activity
 
-I have recently started learning **Cloud** and **AWS pipelines**.  
+I have recently started learning **Python** and **Cloud AWS pipelines**.  
 I'm following **YouTube tutorials** and doing **hands-on projects** to improve my skills.
 
 **Learning Resources I’m using:**
